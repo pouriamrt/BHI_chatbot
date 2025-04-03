@@ -1,7 +1,7 @@
 # AI-Driven Systematic Reviews in the Brain-Heart Interconnectome
 
 **Live System**:
-http://ec2-3-99-191-206.ca-central-1.compute.amazonaws.com/
+[Live BHI Chatbot](http://ec2-52-60-155-21.ca-central-1.compute.amazonaws.com/)
 
 This repository contains the official implementation of the AI-driven system described in the paper:
 
